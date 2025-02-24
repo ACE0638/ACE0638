@@ -15,7 +15,7 @@ Tenho experiência com lógica de programação (Portugol) e ferramentas como Au
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACE0638&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACE0638&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Entre em contato
 - 📫 LinkedIn: [Pedro Henrique](www.linkedin.com/in/pedro-henrique-7353a430b)
