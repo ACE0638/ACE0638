@@ -29,3 +29,9 @@
 
 ## 📈 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ACE0638&layout=compact&theme=dark)](https://github.com/ACE0638)
+
+---
+
+## Contact Me  
+- 📫 **LinkedIn**: [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-7353a430b/)  
+- ✉️ **Email**: pedrohenrique935909@gmail.com
