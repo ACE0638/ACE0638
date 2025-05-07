@@ -3,7 +3,6 @@
 ### 🚀 Java Developer & Software Engineering Student
 
 ## 📌 About Me
-- 🎓 Graduate in **Electrotechnical Engineering** from IFMG.
 - 💻 Currently focused on **Java** and web technologies (**HTML, CSS, JavaScript**).
 - 🧠 Experience in **programming logic** and tools like **AutoCAD**.
 - 🔍 Passionate about solving complex problems with technology.
